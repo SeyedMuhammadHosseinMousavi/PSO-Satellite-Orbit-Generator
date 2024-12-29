@@ -1,4 +1,4 @@
-# PSO-Satellite-Orbit-Generator
+# PSO Satellite Orbit Generator
 
 - PSO Satellite Orbit Generator
 - This code simply generates desired random number of satellites, Orbits and stations and selects best orbits using PSO algorithm. 
